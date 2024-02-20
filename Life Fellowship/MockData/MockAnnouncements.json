@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "New Here?",
+    "description": "We want to connect with you.",
+    "imageName": "connect",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Financial Peace University",
+    "description": "Monday's at 6pm",
+    "imageName": "financial",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Follow Us",
+    "description": "Follow us on social media.",
+    "imageName": "followus",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "title": "Meal Team",
+    "description": "Join the meal team today!",
+    "imageName": "mealteam",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "Newcomer Party",
+    "description": "Feb 18th at 6pm. RSVP in the Connection Center",
+    "imageName": "newcomer",
+    "isFeatured": true
+  }
+]
+
+
