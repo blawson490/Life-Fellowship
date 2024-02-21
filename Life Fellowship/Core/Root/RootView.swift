@@ -10,7 +10,7 @@ import SwiftUI
 struct RootView: View {
     @StateObject var viewModel = ContentViewModel()
     var body: some View {
-        Group {
+        NavigationStack {
             if viewModel.userSession != nil {
                 ContentView()
             } else {

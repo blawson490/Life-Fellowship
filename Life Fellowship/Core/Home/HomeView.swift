@@ -11,7 +11,14 @@ struct HomeView: View {
     @Environment(\.verticalSizeClass) var verticalSizeClass
     @Binding var videos: [VideoItem]
     @Binding var showPremium: Bool
+    @Binding var isShowingAdminMenu: Bool
     @State private var showAlert = false
+    @State private var showProfile = false
+    @StateObject var viewModel = HomeViewModel()
+    
+    private var currentUser: User? {
+        return viewModel.currentUser
+    }
     var announcements: [DummyAnnouncement] = [
         DummyAnnouncement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
         DummyAnnouncement(id: 2, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomer", isFeatured: true),
@@ -33,41 +40,55 @@ struct HomeView: View {
     
     var body: some View {
         NavigationView {
-                ScrollView {
-                    PageView(pages: announcements.map { AnnouncementCard(announcement: $0) })
-                        .aspectRatio(16 / 9, contentMode: .fit)
-                    
-                    ScrollView(.horizontal, showsIndicators: false) {
-                        HStack(spacing: 10) {
-                            ForEach(quickActions)  { action in
-                                QuickActionView(quickAction: action)
-                                    .padding(12)
-                                    .padding(.leading, action == quickActions.first ? 8 : 0)
-                                    .padding(.trailing, action == quickActions.last ? 8 : 0)
-                            }
+            ScrollView {
+                PageView(pages: announcements.map { AnnouncementCard(announcement: $0) })
+                    .aspectRatio(16 / 9, contentMode: .fit)
+                
+                ScrollView(.horizontal, showsIndicators: false) {
+                    HStack(spacing: 10) {
+                        ForEach(quickActions)  { action in
+                            QuickActionView(quickAction: action)
+                                .padding(12)
+                                .padding(.leading, action == quickActions.first ? 8 : 0)
+                                .padding(.trailing, action == quickActions.last ? 8 : 0)
                         }
-                        //                    .scrollTargetLayout()
                     }
-                    //                .scrollTargetBehavior(.viewAligned)
-                    
-                    CountdownTimer()
-                    
-                    if !videos.isEmpty {
-                        let video = videos[0]
-                        RecentVideo(video: video)
-                            .padding(.top)
-                    }
+                    //                    .scrollTargetLayout()
+                }
+                //                .scrollTargetBehavior(.viewAligned)
+                
+                CountdownTimer()
+                
+                if !videos.isEmpty {
+                    let video = videos[0]
+                    RecentVideo(video: video)
+                        .padding(.top)
+                }
             }
+            .toolbar(isShowingAdminMenu ? .hidden : .visible, for: .navigationBar)
             .background(Color(UIColor.systemGroupedBackground))
             .navigationTitle("Life Fellowship")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
-                Button {
-//                    showAlert = true
-                    showPremium = true
-                } label: {
-                    Label("User Profile", systemImage: "person.crop.circle")
+                if currentUser?.type == UserTypes.admin.rawValue {
+                    ToolbarItem(placement: .topBarLeading) {
+                        Button {
+                            isShowingAdminMenu = true
+                        } label: {
+                            Image(systemName: "sidebar.left")
+                        }
+                    }
                 }
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button {
+                        showProfile = true
+                    } label: {
+                        Label("User Profile", systemImage: "person.crop.circle")
+                    }
+                }
+            }
+            .fullScreenCover(isPresented: $showProfile) {
+                ProfileView()
             }
             .alert("Profile Coming Soon 🥳", isPresented: $showAlert) {
                 Button("OK", role: .cancel) { }
@@ -77,7 +98,7 @@ struct HomeView: View {
         }
     }
 }
-
+//
 //#Preview {
-//    HomeView()
+//    HomeView(videos: .constant([]), showPremium: .constant(false))
 //}

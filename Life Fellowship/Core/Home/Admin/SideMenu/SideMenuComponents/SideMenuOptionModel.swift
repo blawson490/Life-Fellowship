@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import SwiftUI
 
 enum SideMenuOptionModel: Int, CaseIterable {
     case home
@@ -31,6 +32,17 @@ enum SideMenuOptionModel: Int, CaseIterable {
             return "magnifyingglass"
         case .requests:
             return "bell"
+        }
+    }
+    
+    var destination: any View {
+        switch self {
+        case .home:
+            return ContentView()
+        case .search:
+            return SearchView()
+        case .requests:
+            return ProfileView()
         }
     }
 }

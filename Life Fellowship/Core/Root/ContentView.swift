@@ -23,9 +23,10 @@ struct ContentView: View {
 //    @State private var showSplashscreen: Bool = false
     @State private var isLoading = true
     @State private var loadedVideos: [VideoItem] = []
+    @State private var isShowingAdminMenu = false
     var body: some View {
         TabView(selection: $selection) {
-            HomeView(videos: $loadedVideos, showPremium: $showPremium)
+            HomeView(videos: $loadedVideos, showPremium: $showPremium, isShowingAdminMenu: $isShowingAdminMenu)
                 .tabItem {
                     Label("Home", systemImage: "house")
                 }
@@ -77,9 +78,9 @@ struct ContentView: View {
 //        }
         .overlay {
             
-//            if showSplashscreen {
-//                SplashScreen(showing: $showSplashscreen)
-//            }
+            //            if showSplashscreen {
+            //                SplashScreen(showing: $showSplashscreen)
+            //            }
             
             if isLoading {
                 LoadingView()
@@ -91,14 +92,21 @@ struct ContentView: View {
                     PremiumAccountView(showPremium: $showPremium)
                     Spacer()
                 }
-                    .background {
-                        Rectangle()
-                            .fill(Color.black)
-                            .opacity(0.75)
-                    }
-                    .edgesIgnoringSafeArea(.all)
-                    
+                .background {
+                    Rectangle()
+                        .fill(Color.black)
+                        .opacity(0.75)
+                }
+                .edgesIgnoringSafeArea(.all)
+                
             }
+            
+            if isShowingAdminMenu {
+                SideMenuView(isShowing: $isShowingAdminMenu)
+                    .transition(.move(edge: .leading))
+                    .animation(.easeInOut, value: isShowingAdminMenu)
+            }
+            
         }
         .onAppear {
             isLoading = true
