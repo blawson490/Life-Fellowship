@@ -8,10 +8,10 @@
 import SwiftUI
 
 struct RootView: View {
-    @State private var isUser = false
+    @StateObject var viewModel = ContentViewModel()
     var body: some View {
-        VStack {
-            if isUser {
+        Group {
+            if viewModel.userSession != nil {
                 ContentView()
             } else {
                 LoginView()

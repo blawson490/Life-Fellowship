@@ -8,12 +8,7 @@
 import SwiftUI
 
 struct RegistrationView: View {
-    
-    @State private var fullName = ""
-    @State private var email = ""
-    @State private var password = ""
-    @State private var confirmedPassword = ""
-    @State private var isRegistrationDisabled = true
+    @StateObject private var viewModel = RegistrationViewModel()
     
     @Environment(\.dismiss) var dismiss
     
@@ -28,26 +23,28 @@ struct RegistrationView: View {
                 .padding()
             
             VStack {
-                TextField("Enter your full name", text: $fullName)
+                TextField("Enter your full name", text: $viewModel.fullName)
                     .textContentType(.name)
                     .modifier(TextFieldModifier())
                 
-                TextField("Enter your email", text: $email)
+                TextField("Enter your email", text: $viewModel.email)
                     .textContentType(.emailAddress)
                     .textInputAutocapitalization(.never)
                     .modifier(TextFieldModifier())
                 
-                SecureField("Enter your password", text: $password)
+                SecureField("Enter your password", text: $viewModel.password)
                     .textContentType(.password)
                     .modifier(TextFieldModifier())
                 
-                SecureField("Confirm your password", text: $confirmedPassword)
+                SecureField("Confirm your password", text: $viewModel.confirmedPassword)
                     .modifier(TextFieldModifier())
                 
             }
             
             Button {
-                
+                Task {
+                    try await viewModel.createUser()
+                }
             } label: {
                 HStack {
                     Spacer()
@@ -63,7 +60,7 @@ struct RegistrationView: View {
                 .padding(.horizontal)
             }
             .padding(.vertical)
-            .disabled(isRegistrationDisabled)
+            .disabled(viewModel.isRegistrationDisabled())
             .buttonStyle(.plain)
             
             Spacer()
@@ -81,6 +78,11 @@ struct RegistrationView: View {
                 
             }
             .padding(.vertical, 16)
+        }
+        .overlay {
+            if viewModel.isLoading {
+                LoadingView()
+            }
         }
         .navigationBarBackButtonHidden()
     }

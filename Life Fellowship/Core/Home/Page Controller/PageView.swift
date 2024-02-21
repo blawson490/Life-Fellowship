@@ -37,9 +37,9 @@ struct PageView<Page: View>: View {
 
 #Preview {
     PageView(pages: [
-        Announcement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
-        Announcement(id: 2, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
-        Announcement(id: 3, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomerparty", isFeatured: true)
+        DummyAnnouncement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
+        DummyAnnouncement(id: 2, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
+        DummyAnnouncement(id: 3, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomerparty", isFeatured: true)
     ].map { AnnouncementCard(announcement: $0) })
         .aspectRatio(16 / 9, contentMode: .fit)
 }

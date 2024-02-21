@@ -8,10 +8,17 @@
 import Foundation
 import SwiftUI
 
-struct Announcement {
+struct DummyAnnouncement {
     var id: Int
     var title: String
     var description: String
+    var shortDescription: String?
+    var longDescription: String?
+    var privacy: String?
+    var createdTimestamp: Date?
+    var updatedTimestamp: Date?
+    var likes: Int?
+    var saves: Int?
     var imageName : String
     var isFeatured: Bool
     var image: Image {

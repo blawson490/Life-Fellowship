@@ -12,15 +12,15 @@ struct HomeView: View {
     @Binding var videos: [VideoItem]
     @Binding var showPremium: Bool
     @State private var showAlert = false
-    var announcements: [Announcement] = [
-        Announcement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
-        Announcement(id: 2, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomer", isFeatured: true),
-        Announcement(id: 3, title: "Girls Night", description: "K - 4th Girls. Friday, March 8th. 5 PM", imageName: "girlsnight", isFeatured: true),
-        Announcement(id: 4, title: "Meal Team", description: "Join the Meal Team Today.", imageName: "mealteam", isFeatured: true),
+    var announcements: [DummyAnnouncement] = [
+        DummyAnnouncement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
+        DummyAnnouncement(id: 2, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomer", isFeatured: true),
+        DummyAnnouncement(id: 3, title: "Girls Night", description: "K - 4th Girls. Friday, March 8th. 5 PM", imageName: "girlsnight", isFeatured: true),
+        DummyAnnouncement(id: 4, title: "Meal Team", description: "Join the Meal Team Today.", imageName: "mealteam", isFeatured: true),
         // Meal Team
-        Announcement(id: 5, title: "Bible App", description: "Follow Life Fellowship in the Bible App.", imageName: "youversion", isFeatured: true),
+        DummyAnnouncement(id: 5, title: "Bible App", description: "Follow Life Fellowship in the Bible App.", imageName: "youversion", isFeatured: true),
         // You Version
-        Announcement(id: 6, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
+        DummyAnnouncement(id: 6, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
     ]
     
     var quickActions = [

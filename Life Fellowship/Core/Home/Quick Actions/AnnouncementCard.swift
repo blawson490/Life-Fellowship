@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct AnnouncementCard: View {
-    var announcement: Announcement
+    var announcement: DummyAnnouncement
     var body: some View {
         announcement.featureImage?
             .resizable()
@@ -20,7 +20,7 @@ struct AnnouncementCard: View {
 }
 
 struct TextOverlay: View {
-    var announcement: Announcement
+    var announcement: DummyAnnouncement
     
     var gradient: LinearGradient {
         .linearGradient(
@@ -44,5 +44,5 @@ struct TextOverlay: View {
 }
 
 #Preview {
-    AnnouncementCard(announcement: Announcement(id: 1, title: "New Here?", description: "Use the connection card in the back of your seat!", imageName: "connect", isFeatured: true))
+    AnnouncementCard(announcement: DummyAnnouncement(id: 1, title: "New Here?", description: "Use the connection card in the back of your seat!", imageName: "connect", isFeatured: true))
 }

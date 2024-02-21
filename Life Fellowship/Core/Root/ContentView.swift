@@ -37,14 +37,23 @@ struct ContentView: View {
             }
             .tag(Tab.watch)
             
-            Text("Community Coming Soon! 🎉🥳")
+            Text("Announcements Coming Soon! 🎉🥳")
                 .onAppear {
                     showPremium = true
                 }
                 .tabItem {
-                Label("Community", systemImage: "megaphone")
+                Label("Announcements", systemImage: "megaphone")
             }
             .tag(Tab.events)
+            
+            Text("Messages Coming Soon! 🎉🥳")
+                .onAppear {
+                    showPremium = true
+                }
+                .tabItem {
+                Label("Messages", systemImage: "message")
+            }
+            .tag(Tab.messages)
             
             Text("Groups Coming Soon! 🎉🥳")
                 .onAppear {
@@ -54,15 +63,6 @@ struct ContentView: View {
                 Label("Groups", systemImage: "rectangle.3.group.bubble")
             }
             .tag(Tab.groups)
-            
-            Text("Messages Coming Soon! 🎉🥳")
-                .onAppear {
-                    showPremium = true
-                }
-                .tabItem {
-                Label("Messages", systemImage: "message")
-            }
-            .tag(Tab.library)
             
         }
 //        .onChange(of: selection) { _, newValue in
