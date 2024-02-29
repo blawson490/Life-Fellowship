@@ -10,7 +10,7 @@ import SwiftUI
 enum Tab {
     case home
     case watch
-    case events
+    case community
     case groups
     case library
     case messages
@@ -23,10 +23,9 @@ struct ContentView: View {
 //    @State private var showSplashscreen: Bool = false
     @State private var isLoading = true
     @State private var loadedVideos: [VideoItem] = []
-    @State private var isShowingAdminMenu = false
     var body: some View {
         TabView(selection: $selection) {
-            HomeView(videos: $loadedVideos, showPremium: $showPremium, isShowingAdminMenu: $isShowingAdminMenu)
+            HomeView(videos: $loadedVideos, showPremium: $showPremium)
                 .tabItem {
                     Label("Home", systemImage: "house")
                 }
@@ -38,23 +37,20 @@ struct ContentView: View {
             }
             .tag(Tab.watch)
             
-            Text("Announcements Coming Soon! 🎉🥳")
-                .onAppear {
-                    showPremium = true
-                }
+            CommunityView()
                 .tabItem {
                 Label("Announcements", systemImage: "megaphone")
             }
-            .tag(Tab.events)
+            .tag(Tab.community)
             
-            Text("Messages Coming Soon! 🎉🥳")
-                .onAppear {
-                    showPremium = true
-                }
-                .tabItem {
-                Label("Messages", systemImage: "message")
-            }
-            .tag(Tab.messages)
+//            Text("Messages Coming Soon! 🎉🥳")
+//                .onAppear {
+//                    showPremium = true
+//                }
+//                .tabItem {
+//                Label("Messages", systemImage: "message")
+//            }
+//            .tag(Tab.messages)
             
             Text("Groups Coming Soon! 🎉🥳")
                 .onAppear {
@@ -100,13 +96,6 @@ struct ContentView: View {
                 .edgesIgnoringSafeArea(.all)
                 
             }
-            
-            if isShowingAdminMenu {
-                SideMenuView(isShowing: $isShowingAdminMenu)
-                    .transition(.move(edge: .leading))
-                    .animation(.easeInOut, value: isShowingAdminMenu)
-            }
-            
         }
         .onAppear {
             isLoading = true

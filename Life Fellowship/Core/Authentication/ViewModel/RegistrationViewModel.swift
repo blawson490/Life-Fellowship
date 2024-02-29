@@ -13,8 +13,6 @@ class RegistrationViewModel: ObservableObject {
     @Published var email = ""
     @Published var password = ""
     @Published var confirmedPassword = ""
-//    @Published var showError = false
-//    @Published var error = ""
     
     @MainActor
     func createUser() async throws {
@@ -28,21 +26,7 @@ class RegistrationViewModel: ObservableObject {
     }
     
     func isRegistrationDisabled() -> Bool {
-//        if fullName.isEmpty {
-//            error = "Full name required."
-//            showError = true
-//            return true
-//        } else if email.isEmpty {
-//            error = "Email required."
-//            showError = true
-//            return true
-//        } else if !doPasswordsMatch() {
-//            error = "Passwords do not match"
-//            showError = true
-//            return true
-//        } else {
-//            return false
-//        }
+        
         return false
     }
     

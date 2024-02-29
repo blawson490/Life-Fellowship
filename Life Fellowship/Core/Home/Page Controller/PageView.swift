@@ -13,11 +13,11 @@ struct PageView<Page: View>: View {
     @State private var timer = Timer.publish(every: 5, on: .main, in: .common).autoconnect()
     var body: some View {
         ZStack (alignment: .bottomTrailing) {
-            PageViewController(pages: pages, currentPage: $currentPage)
-//                .onChange(of: currentPage) { resetTimer() }
-            PageControl(numberOfPages: pages.count, currentPage: $currentPage)
-                            .frame(width: CGFloat(pages.count * 18))
-                            .padding(.trailing)
+                PageViewController(pages: pages, currentPage: $currentPage)
+                //                .onChange(of: currentPage) { resetTimer() }
+                PageControl(numberOfPages: pages.count, currentPage: $currentPage)
+                    .frame(width: CGFloat(pages.count * 18))
+                    .padding(.trailing)
             
         }
         .onReceive(timer) { _ in
@@ -35,11 +35,11 @@ struct PageView<Page: View>: View {
     }
 }
 
-#Preview {
-    PageView(pages: [
-        DummyAnnouncement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
-        DummyAnnouncement(id: 2, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
-        DummyAnnouncement(id: 3, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomerparty", isFeatured: true)
-    ].map { AnnouncementCard(announcement: $0) })
-        .aspectRatio(16 / 9, contentMode: .fit)
-}
+//#Preview {
+//    PageView(pages: [
+//        DummyAnnouncement(id: 1, title: "New Here?", description: "We want to connect with you.", imageName: "connect", isFeatured: true),
+//        DummyAnnouncement(id: 2, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
+//        DummyAnnouncement(id: 3, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomer", isFeatured: true)
+//    ].map { AnnouncementCard(announcement: $0) })
+//        .aspectRatio(16 / 9, contentMode: .fit)
+//}

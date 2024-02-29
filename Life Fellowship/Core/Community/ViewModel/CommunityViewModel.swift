@@ -1,8 +1,8 @@
 //
-//  HomeViewModel.swift
+//  CommunityViewModel.swift
 //  Life Fellowship
 //
-//  Created by Blake Lawson on 2/20/24.
+//  Created by Blake Lawson on 2/24/24.
 //
 
 import Foundation
@@ -10,15 +10,14 @@ import Combine
 import Firebase
 import FirebaseFirestore
 
-class HomeViewModel: ObservableObject {
-    @Published var currentUser: User?
+class CommunityViewModel: ObservableObject {
+    @Published var CurrentUser: User?
     @Published var announcements: [Announcement]
     private var cancellables = Set<AnyCancellable>()
     @Published var isLoading = false
     @Published var showError = false
     @Published var errorTitle = ""
     @Published var errorDescription = ""
-    
     
     init() {
         announcements = []
@@ -27,7 +26,8 @@ class HomeViewModel: ObservableObject {
     
     private func setupSubscribers() {
         UserService.shared.$currentUser.sink { [weak self] user in
-            self?.currentUser = user
+            self?.CurrentUser = user
+//            print(self?.CurrentUser ?? "")
         }.store(in: &cancellables)
     }
     

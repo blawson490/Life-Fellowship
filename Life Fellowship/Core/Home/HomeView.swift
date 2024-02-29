@@ -11,7 +11,6 @@ struct HomeView: View {
     @Environment(\.verticalSizeClass) var verticalSizeClass
     @Binding var videos: [VideoItem]
     @Binding var showPremium: Bool
-    @Binding var isShowingAdminMenu: Bool
     @State private var showAlert = false
     @State private var showProfile = false
     @StateObject var viewModel = HomeViewModel()
@@ -24,9 +23,7 @@ struct HomeView: View {
         DummyAnnouncement(id: 2, title: "Newcomer Party", description: "Feb 18th at 6pm. RSVP in the Connection Center", imageName: "newcomer", isFeatured: true),
         DummyAnnouncement(id: 3, title: "Girls Night", description: "K - 4th Girls. Friday, March 8th. 5 PM", imageName: "girlsnight", isFeatured: true),
         DummyAnnouncement(id: 4, title: "Meal Team", description: "Join the Meal Team Today.", imageName: "mealteam", isFeatured: true),
-        // Meal Team
         DummyAnnouncement(id: 5, title: "Bible App", description: "Follow Life Fellowship in the Bible App.", imageName: "youversion", isFeatured: true),
-        // You Version
         DummyAnnouncement(id: 6, title: "Follow Us", description: "Follow us on social media.", imageName: "followus", isFeatured: true),
     ]
     
@@ -40,9 +37,12 @@ struct HomeView: View {
     
     var body: some View {
         NavigationView {
-            ScrollView {
-                PageView(pages: announcements.map { AnnouncementCard(announcement: $0) })
-                    .aspectRatio(16 / 9, contentMode: .fit)
+            ScrollView(showsIndicators: false) {
+                if viewModel.announcements.count > 1 {
+                    PageView(pages: viewModel.announcements.map { AnnouncementCard(announcement: $0) })
+                        .aspectRatio(16 / 9, contentMode: .fit)
+                        .padding()
+                }
                 
                 ScrollView(.horizontal, showsIndicators: false) {
                     HStack(spacing: 10) {
@@ -65,23 +65,20 @@ struct HomeView: View {
                         .padding(.top)
                 }
             }
-            .toolbar(isShowingAdminMenu ? .hidden : .visible, for: .navigationBar)
+            .onAppear {
+                viewModel.getAnnouncements()
+            }
             .background(Color(UIColor.systemGroupedBackground))
             .navigationTitle("Life Fellowship")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
-                if currentUser?.type == UserTypes.admin.rawValue {
-                    ToolbarItem(placement: .topBarLeading) {
-                        Button {
-                            isShowingAdminMenu = true
-                        } label: {
-                            Image(systemName: "sidebar.left")
-                        }
-                    }
-                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button {
-                        showProfile = true
+                        if currentUser != nil {
+                            showProfile = true
+                        } else {
+                            showPremium = true
+                        }
                     } label: {
                         Label("User Profile", systemImage: "person.crop.circle")
                     }
@@ -98,7 +95,7 @@ struct HomeView: View {
         }
     }
 }
-//
-//#Preview {
-//    HomeView(videos: .constant([]), showPremium: .constant(false))
-//}
+
+#Preview {
+    HomeView(videos: .constant([]), showPremium: .constant(false))
+}

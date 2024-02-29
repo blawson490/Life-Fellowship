@@ -8,19 +8,35 @@
 import SwiftUI
 
 struct AnnouncementCard: View {
-    var announcement: DummyAnnouncement
+    var announcement: Announcement
     var body: some View {
-        announcement.featureImage?
-            .resizable()
-            .aspectRatio(16 / 9, contentMode: .fit)
-            .overlay{
-                TextOverlay(announcement: announcement)
+        AsyncImage(url: announcement.image) { phase in
+            switch phase {
+            case .success(let image):
+                image.resizable()
+                     .aspectRatio(contentMode: .fill)
+                     .clipShape(RoundedRectangle(cornerRadius: 8))
+                     .shadow(radius: 8)
+                     .overlay {
+                         TextOverlay(announcement: announcement)
+                     }
+            case .empty:
+                ProgressView()
+            case .failure(_):
+                Image(systemName: "photo")
+//                    .frame(width: 50, height: 50)
+                    .foregroundColor(.gray)
+            @unknown default:
+                EmptyView()
             }
+        }
+        .aspectRatio(contentMode: .fit)
+        .clipped()
     }
 }
 
 struct TextOverlay: View {
-    var announcement: DummyAnnouncement
+    var announcement: Announcement
     
     var gradient: LinearGradient {
         .linearGradient(
@@ -35,14 +51,15 @@ struct TextOverlay: View {
                     Text(announcement.title)
                         .font(.title)
                         .bold()
-                    Text(announcement.description)
+                    Text(announcement.shortDescription)
                 }
                 .padding()
             }
             .foregroundColor(.white)
+            .clipShape(RoundedRectangle(cornerRadius: 8))
         }
 }
 
-#Preview {
-    AnnouncementCard(announcement: DummyAnnouncement(id: 1, title: "New Here?", description: "Use the connection card in the back of your seat!", imageName: "connect", isFeatured: true))
-}
+//#Preview {
+//    AnnouncementCard(announcement: DummyAnnouncement(id: 1, title: "New Here?", description: "Use the connection card in the back of your seat!", imageName: "connect", isFeatured: true))
+//}

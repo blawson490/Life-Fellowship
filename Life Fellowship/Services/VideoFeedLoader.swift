@@ -23,7 +23,7 @@ class VideoFeedLoader: NSObject, XMLParserDelegate {
 
     func loadVideos(completion: @escaping ([VideoItem]) -> Void) {
         // Define whether the environment is for preview or not
-        let isPreview = false
+        let isPreview = true
 
         self.completionHandler = completion
 

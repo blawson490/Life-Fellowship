@@ -39,7 +39,6 @@ struct PremiumAccountView: View {
             
             VStack {
                 Button {
-//                    showAlert = true
                     dismiss()
                 } label: {
                     HStack {
@@ -59,13 +58,26 @@ struct PremiumAccountView: View {
                 }
                 
                 Button {
+                    dismiss()
+                } label: {
+                    HStack {
+                        Spacer()
+                        Text("Login")
+                            .font(.headline)
+                            .padding(6)
+                        Spacer()
+                    }
+                }
+                .buttonStyle(.bordered)
+                
+                Button {
                     showPremium = false
                 } label: {
                     HStack {
                         Spacer()
                         Text("Skip for now")
                             .padding(6)
-                            .fontWeight(.regular)
+                            .fontWeight(.light)
                             .foregroundStyle(.primary)
                         Spacer()
                     }
@@ -99,6 +111,5 @@ struct PremiumAccountView: View {
 }
 
 #Preview {
-//    PremiumAccountView(showPremium: .constant(true), selection: .constant(Tab.home))
     PremiumAccountView(showPremium: .constant(true))
 }

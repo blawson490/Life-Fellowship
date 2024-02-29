@@ -1,26 +1,74 @@
 <rss
 version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>App Audio</title>
-        <description>App Audio</description>
+        <title>App Videos</title>
+        <description>App Videos</description>
         <language>en</language>
-        <lastBuildDate>Sat, 17 Feb 2024 03:21:35 UT</lastBuildDate>
-        <link>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss</link>
-        <atom:link href="http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Feb 2024 03:21:35 UT</pubDate>
+        <lastBuildDate>Mon, 26 Feb 2024 04:07:50 UT</lastBuildDate>
+        <link>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss</link>
+        <atom:link href="http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 26 Feb 2024 04:07:50 UT</pubDate>
+        <item>
+            <title>The Principle of Humility</title>
+            <pubDate>Sun, 25 Feb 2024 17:00:13 UT</pubDate>
+            <description>
+                Explore humility with Pastor Dakota Marsh in our 21st video in the series The Study of Luke.
+            </description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/5265600</guid>
+            <sh:mediaId>OStg5UslfAu</sh:mediaId>
+            <sh:mediaContentId>OStg5UslfAu_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>The Principle of Humility</media:title>
+            <media:description>
+                Explore humility with Pastor Dakota Marsh in our 21st video in the series The Study of Luke.
+            </media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/5265600/24554300.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/5265600/playlist.m3u8" duration="3850.947" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Who Will Be Saved?</title>
+            <pubDate>Sun, 18 Feb 2024 17:08:50 UT</pubDate>
+            <description>
+                Find out Who Will Be Saved in our 20th video in the series The Study of Luke.
+            </description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/5154912</guid>
+            <sh:mediaId>OFiPUQs7ELv</sh:mediaId>
+            <sh:mediaContentId>OFiPUQs7ELv_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Who Will Be Saved?</media:title>
+            <media:description>
+                Find out Who Will Be Saved in our 20th video in the series The Study of Luke.
+            </media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/5154912/24253370.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/5154912/playlist.m3u8" duration="4301.697" lang="en" medium="video">
+</media:content>
+        </item>
         <item>
             <title>The Truth About Mustard Seeds</title>
             <pubDate>Sun, 11 Feb 2024 17:04:50 UT</pubDate>
-            <description>Live stream for Life Fellowship</description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/5043098</guid>
+            <description>
+                Discover The Truth About Mustard Seeds in our 19th sermon in the series The Study of Luke.
+            </description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/5043098</guid>
             <sh:mediaId>OKatGOs74MS</sh:mediaId>
             <sh:mediaContentId>OKatGOs74MS_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
             <media:title>The Truth About Mustard Seeds</media:title>
-            <media:description>Live stream for Life Fellowship</media:description>
+            <media:description>
+                Discover The Truth About Mustard Seeds in our 19th sermon in the series The Study of Luke.
+            </media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/5043098/23948958.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/5043098/24196266.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/5043098/playlist.m3u8" duration="4139.4365" lang="en" medium="video">
@@ -30,7 +78,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <title>When Life Stinks</title>
             <pubDate>Sun, 04 Feb 2024 17:17:56 UT</pubDate>
             <description>A Study in the Book of Luke. February 4th, 2024 </description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/4932130</guid>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4932130</guid>
             <sh:mediaId>OwyHqMsL6Xx</sh:mediaId>
             <sh:mediaContentId>OwyHqMsL6Xx_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
@@ -40,7 +88,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             </media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4932130/23842358.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4932130/23842358.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4932130/playlist.m3u8" duration="5214.743" lang="en" medium="video">
@@ -50,7 +98,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <title>Life Fellowship Live</title>
             <pubDate>Sun, 28 Jan 2024 17:14:45 UT</pubDate>
             <description>Live stream for Life Fellowship</description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/4821444</guid>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4821444</guid>
             <sh:mediaId>OZguBTsLWSq</sh:mediaId>
             <sh:mediaContentId>OZguBTsLWSq_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
@@ -58,7 +106,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <media:description>Live stream for Life Fellowship</media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4821444/23376446.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4821444/23376446.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4821444/playlist.m3u8" duration="4716.055" lang="en" medium="video">
@@ -68,7 +116,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <title>Life Fellowship Live</title>
             <pubDate>Sun, 21 Jan 2024 17:29:18 UT</pubDate>
             <description>Live stream for Life Fellowship</description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/4711270</guid>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4711270</guid>
             <sh:mediaId>OV3XMAsDv2y</sh:mediaId>
             <sh:mediaContentId>OV3XMAsDv2y_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
@@ -76,7 +124,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <media:description>Live stream for Life Fellowship</media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4711270/23095512.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4711270/23095512.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4711270/playlist.m3u8" duration="5577.582" lang="en" medium="video">
@@ -86,7 +134,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <title>Life Fellowship Live</title>
             <pubDate>Sun, 14 Jan 2024 17:13:16 UT</pubDate>
             <description>Live stream for Life Fellowship</description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/4601526</guid>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4601526</guid>
             <sh:mediaId>OUgaKwsDTKb</sh:mediaId>
             <sh:mediaContentId>OUgaKwsDTKb_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
@@ -94,7 +142,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <media:description>Live stream for Life Fellowship</media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4601526/22819856.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4601526/22819856.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4601526/playlist.m3u8" duration="4411.4985" lang="en" medium="video">
@@ -104,7 +152,7 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <title>Life Fellowship Live</title>
             <pubDate>Sun, 07 Jan 2024 17:18:32 UT</pubDate>
             <description>Live stream for Life Fellowship</description>
-            <guid>http://c.themediacdn.com/feed/Wys39U/i1lmgHhs2dc/ObYAhpGsiaE?format=mrss/4556312</guid>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4556312</guid>
             <sh:mediaId>O7rEMxsDqXI</sh:mediaId>
             <sh:mediaContentId>O7rEMxsDqXI_1</sh:mediaContentId>
             <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
@@ -112,12 +160,855 @@ version="2.0" xmlns:sh="http://static.streamhoster.com/feed/sh.dtd" xmlns:media=
             <media:description>Live stream for Life Fellowship</media:description>
             <media:category>Sunday Morning</media:category>
             <media:thumbnail
-            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4556312/22672428.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg3NDg3NzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=c9oG0Lpgu1FFmq57ZD9lqjmBSs222-~ttLlrjdDmrbeM4ONzNX8Hj-5pLHDyPgXu4ptupUyowf5FbSbN6E~QXhqx3LX7wry7x2GVrSj6Mg4YizDnMMgrk1PHQI4fBpHzr8QC2XGafURGZ5ceezb5NK8y7T86KuYhAnr3SCDFpCc8L9c1qs~kYCsO0r2VkjOaOMLvrx77dT5eviNhBGz2BpF4WRlotN3LP-rg1-MYCmRfEgZndXf2~9XnA9PAMM42lZabM28gmMmUVRn-tKcS~K2hdi6fQMIxtoaTzOpAEsx4jlwmSAVHMnx6x~Y~cCA8xHsigc1~wj-1Gc1nBHNlsA__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4556312/22672428.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
 </media:thumbnail>
             <media:content
             url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4556312/playlist.m3u8" duration="4819.138" lang="en" medium="video">
 </media:content>
         </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Sun, 31 Dec 2023 17:20:58 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4546126</guid>
+            <sh:mediaId>O7Iyh7sDiSG</sh:mediaId>
+            <sh:mediaContentId>O7Iyh7sDiSG_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4546126/22601776.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4546126/playlist.m3u8" duration="5073.8213" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Sun, 24 Dec 2023 16:55:09 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4536722</guid>
+            <sh:mediaId>O7LJbmsun4k</sh:mediaId>
+            <sh:mediaContentId>O7LJbmsun4k_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4536722/22533652.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4536722/playlist.m3u8" duration="3507.4204" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Mon, 18 Dec 2023 08:31:15 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4528414</guid>
+            <sh:mediaId>O7cwoasuynM</sh:mediaId>
+            <sh:mediaContentId>O7cwoasuynM_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4528414/22474968.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4528414/playlist.m3u8" duration="7588.416" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Sun, 10 Dec 2023 17:18:10 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4517488</guid>
+            <sh:mediaId>OLSLtJsu3mo</sh:mediaId>
+            <sh:mediaContentId>OLSLtJsu3mo_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4517488/22388986.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4517488/playlist.m3u8" duration="4944.229" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Sun, 03 Dec 2023 17:14:56 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4500606</guid>
+            <sh:mediaId>OLfP6LsuzZp</sh:mediaId>
+            <sh:mediaContentId>OLfP6LsuzZp_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4500606/22269678.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4500606/playlist.m3u8" duration="4558.598" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Life Fellowship Live</title>
+            <pubDate>Sun, 26 Nov 2023 17:10:06 UT</pubDate>
+            <description>Live stream for Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4488836</guid>
+            <sh:mediaId>ODzS0bsuCLX</sh:mediaId>
+            <sh:mediaContentId>ODzS0bsuCLX_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Life Fellowship Live</media:title>
+            <media:description>Live stream for Life Fellowship</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4488836/22185198.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4488836/playlist.m3u8" duration="4115.7476" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>Weatherford Life Fellowship Live</title>
+            <pubDate>Sun, 19 Nov 2023 17:16:00 UT</pubDate>
+            <description>Live stream for Weatherford Life Fellowship</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4476544</guid>
+            <sh:mediaId>ODpBeMsu6Or</sh:mediaId>
+            <sh:mediaContentId>ODpBeMsu6Or_1</sh:mediaContentId>
+            <sh:streamMediaId>OurvINsuG0k</sh:streamMediaId>
+            <media:title>Weatherford Life Fellowship Live</media:title>
+            <media:description>
+                Live stream for Weatherford Life Fellowship
+            </media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4476544/22095000.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4476544/playlist.m3u8" duration="4746.383" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 12 November 2023 - 09-55-18 AM</title>
+            <pubDate>Sun, 12 Nov 2023 17:18:22 UT</pubDate>
+            <description>capture - 12 November 2023 - 09-55-18 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461958</guid>
+            <sh:mediaId>OurwNwsuG2b</sh:mediaId>
+            <sh:mediaContentId>OurwNwsuG2b_1</sh:mediaContentId>
+            <media:title>capture - 12 November 2023 - 09-55-18 AM</media:title>
+            <media:description>capture - 12 November 2023 - 09-55-18 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461958/21991300.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461958/playlist.m3u8" duration="4983.9785" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 05 November 2023 - 09-56-46 AM</title>
+            <pubDate>Sun, 05 Nov 2023 17:30:08 UT</pubDate>
+            <description>capture - 05 November 2023 - 09-56-46 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461944</guid>
+            <sh:mediaId>Ourt0asuG2K</sh:mediaId>
+            <sh:mediaContentId>Ourt0asuG2K_1</sh:mediaContentId>
+            <media:title>capture - 05 November 2023 - 09-56-46 AM</media:title>
+            <media:description>capture - 05 November 2023 - 09-56-46 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461944/21991172.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461944/playlist.m3u8" duration="5601.6855" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 29 October 2023 - 09-57-45 AM</title>
+            <pubDate>Sun, 29 Oct 2023 16:13:24 UT</pubDate>
+            <description>capture - 29 October 2023 - 09-57-45 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461946</guid>
+            <sh:mediaId>Ourtl3suG2G</sh:mediaId>
+            <sh:mediaContentId>Ourtl3suG2G_1</sh:mediaContentId>
+            <media:title>capture - 29 October 2023 - 09-57-45 AM</media:title>
+            <media:description>capture - 29 October 2023 - 09-57-45 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461946/21991270.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461946/playlist.m3u8" duration="4538.7944" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 15 October 2023 - 09-58-48 AM</title>
+            <pubDate>Sun, 15 Oct 2023 16:16:56 UT</pubDate>
+            <description>capture - 15 October 2023 - 09-58-48 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461968</guid>
+            <sh:mediaId>OurPnesuGYi</sh:mediaId>
+            <sh:mediaContentId>OurPnesuGYi_1</sh:mediaContentId>
+            <media:title>capture - 15 October 2023 - 09-58-48 AM</media:title>
+            <media:description>capture - 15 October 2023 - 09-58-48 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461968/21991356.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461968/playlist.m3u8" duration="4687.424" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 08 October 2023 - 09-55-06 AM</title>
+            <pubDate>Sun, 08 Oct 2023 16:17:07 UT</pubDate>
+            <description>capture - 08 October 2023 - 09-55-06 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461986</guid>
+            <sh:mediaId>OurK2esuGYu</sh:mediaId>
+            <sh:mediaContentId>OurK2esuGYu_1</sh:mediaContentId>
+            <media:title>capture - 08 October 2023 - 09-55-06 AM</media:title>
+            <media:description>capture - 08 October 2023 - 09-55-06 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461986/21991542.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461986/playlist.m3u8" duration="4920.0" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 01 October 2023 - 09-55-21 AM</title>
+            <pubDate>Sun, 01 Oct 2023 16:12:49 UT</pubDate>
+            <description>capture - 01 October 2023 - 09-55-21 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461994</guid>
+            <sh:mediaId>OurIqPsuGYV</sh:mediaId>
+            <sh:mediaContentId>OurIqPsuGYV_1</sh:mediaContentId>
+            <media:title>capture - 01 October 2023 - 09-55-21 AM</media:title>
+            <media:description>capture - 01 October 2023 - 09-55-21 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461994/21991588.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461994/playlist.m3u8" duration="4647.6143" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 24 September 2023 - 09-54-40 AM</title>
+            <pubDate>Sun, 24 Sep 2023 16:08:36 UT</pubDate>
+            <description>capture - 24 September 2023 - 09-54-40 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462000</guid>
+            <sh:mediaId>OurIC3suGYt</sh:mediaId>
+            <sh:mediaContentId>OurIC3suGYt_1</sh:mediaContentId>
+            <media:title>capture - 24 September 2023 - 09-54-40 AM</media:title>
+            <media:description>
+                capture - 24 September 2023 - 09-54-40 AM
+            </media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462000/21991678.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462000/playlist.m3u8" duration="4435.008" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 27 August 2023 - 09-55-47 AM</title>
+            <pubDate>Sun, 27 Aug 2023 14:56:21 UT</pubDate>
+            <description>capture - 27 August 2023 - 09-55-47 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461974</guid>
+            <sh:mediaId>OurxE2suGY2</sh:mediaId>
+            <sh:mediaContentId>OurxE2suGY2_1</sh:mediaContentId>
+            <media:title>capture - 27 August 2023 - 09-55-47 AM</media:title>
+            <media:description>capture - 27 August 2023 - 09-55-47 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461974/21991406.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461974/playlist.m3u8" duration="33.365314" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 20 August 2023 - 09-58-25 AM</title>
+            <pubDate>Sun, 20 Aug 2023 16:20:04 UT</pubDate>
+            <description>capture - 20 August 2023 - 09-58-25 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4461976</guid>
+            <sh:mediaId>OurxyPsuGY0</sh:mediaId>
+            <sh:mediaContentId>OurxyPsuGY0_1</sh:mediaContentId>
+            <media:title>capture - 20 August 2023 - 09-58-25 AM</media:title>
+            <media:description>capture - 20 August 2023 - 09-58-25 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4461976/21991468.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4461976/playlist.m3u8" duration="4898.3467" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 13 August 2023 - 09-55-34 AM</title>
+            <pubDate>Sun, 13 Aug 2023 16:13:37 UT</pubDate>
+            <description>capture - 13 August 2023 - 09-55-34 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462030</guid>
+            <sh:mediaId>OurEDPsuG0O</sh:mediaId>
+            <sh:mediaContentId>OurEDPsuG0O_1</sh:mediaContentId>
+            <media:title>capture - 13 August 2023 - 09-55-34 AM</media:title>
+            <media:description>capture - 13 August 2023 - 09-55-34 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462030/21991842.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462030/playlist.m3u8" duration="4682.2827" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 06 August 2023 - 09-55-24 AM</title>
+            <pubDate>Sun, 06 Aug 2023 16:09:14 UT</pubDate>
+            <description>capture - 06 August 2023 - 09-55-24 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462014</guid>
+            <sh:mediaId>OurJVisuGYC</sh:mediaId>
+            <sh:mediaContentId>OurJVisuGYC_1</sh:mediaContentId>
+            <media:title>capture - 06 August 2023 - 09-55-24 AM</media:title>
+            <media:description>capture - 06 August 2023 - 09-55-24 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462014/21991724.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462014/playlist.m3u8" duration="4429.205" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 30 July 2023 - 09-56-18 AM</title>
+            <pubDate>Sun, 30 Jul 2023 16:10:41 UT</pubDate>
+            <description>capture - 30 July 2023 - 09-56-18 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462022</guid>
+            <sh:mediaId>OurFlNsuGY3</sh:mediaId>
+            <sh:mediaContentId>OurFlNsuGY3_1</sh:mediaContentId>
+            <media:title>capture - 30 July 2023 - 09-56-18 AM</media:title>
+            <media:description>capture - 30 July 2023 - 09-56-18 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462022/21991788.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462022/playlist.m3u8" duration="4461.44" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 23 July 2023 - 09-57-31 AM</title>
+            <pubDate>Sun, 23 Jul 2023 16:15:21 UT</pubDate>
+            <description>capture - 23 July 2023 - 09-57-31 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462062</guid>
+            <sh:mediaId>OurC2FsuG0w</sh:mediaId>
+            <sh:mediaContentId>OurC2FsuG0w_1</sh:mediaContentId>
+            <media:title>capture - 23 July 2023 - 09-57-31 AM</media:title>
+            <media:description>capture - 23 July 2023 - 09-57-31 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462062/21992032.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462062/playlist.m3u8" duration="4669.013" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 16 July 2023 - 09-57-34 AM</title>
+            <pubDate>Sun, 16 Jul 2023 16:16:32 UT</pubDate>
+            <description>capture - 16 July 2023 - 09-57-34 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462070</guid>
+            <sh:mediaId>OureqXsuG0F</sh:mediaId>
+            <sh:mediaContentId>OureqXsuG0F_1</sh:mediaContentId>
+            <media:title>capture - 16 July 2023 - 09-57-34 AM</media:title>
+            <media:description>capture - 16 July 2023 - 09-57-34 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462070/21992088.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462070/playlist.m3u8" duration="4737.664" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 02 July 2023 - 09-57-34 AM</title>
+            <pubDate>Sun, 02 Jul 2023 16:15:00 UT</pubDate>
+            <description>capture - 02 July 2023 - 09-57-34 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462078</guid>
+            <sh:mediaId>OurNijsuG0z</sh:mediaId>
+            <sh:mediaContentId>OurNijsuG0z_1</sh:mediaContentId>
+            <media:title>capture - 02 July 2023 - 09-57-34 AM</media:title>
+            <media:description>capture - 02 July 2023 - 09-57-34 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462078/21992136.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462078/playlist.m3u8" duration="4645.312" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 25 June 2023 - 09-58-21 AM</title>
+            <pubDate>Sun, 25 Jun 2023 16:14:15 UT</pubDate>
+            <description>capture - 25 June 2023 - 09-58-21 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462126</guid>
+            <sh:mediaId>OurdFQsuGH9</sh:mediaId>
+            <sh:mediaContentId>OurdFQsuGH9_1</sh:mediaContentId>
+            <media:title>capture - 25 June 2023 - 09-58-21 AM</media:title>
+            <media:description>capture - 25 June 2023 - 09-58-21 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462126/21992440.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462126/playlist.m3u8" duration="4553.621" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 18 June 2023 - 09-55-09 AM</title>
+            <pubDate>Sun, 18 Jun 2023 16:21:16 UT</pubDate>
+            <description>capture - 18 June 2023 - 09-55-09 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462086</guid>
+            <sh:mediaId>OurNrOsuG08</sh:mediaId>
+            <sh:mediaContentId>OurNrOsuG08_1</sh:mediaContentId>
+            <media:title>capture - 18 June 2023 - 09-55-09 AM</media:title>
+            <media:description>capture - 18 June 2023 - 09-55-09 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462086/21992220.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462086/playlist.m3u8" duration="5166.2505" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 11 June 2023 - 09-55-28 AM</title>
+            <pubDate>Sun, 11 Jun 2023 16:09:27 UT</pubDate>
+            <description>capture - 11 June 2023 - 09-55-28 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462096</guid>
+            <sh:mediaId>Our50jsuGH2</sh:mediaId>
+            <sh:mediaContentId>Our50jsuGH2_1</sh:mediaContentId>
+            <media:title>capture - 11 June 2023 - 09-55-28 AM</media:title>
+            <media:description>capture - 11 June 2023 - 09-55-28 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462096/21992284.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462096/playlist.m3u8" duration="4437.824" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 04 June 2023 - 09-55-15 AM</title>
+            <pubDate>Sun, 04 Jun 2023 16:11:59 UT</pubDate>
+            <description>capture - 04 June 2023 - 09-55-15 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462104</guid>
+            <sh:mediaId>OurbAOsuGHj</sh:mediaId>
+            <sh:mediaContentId>OurbAOsuGHj_1</sh:mediaContentId>
+            <media:title>capture - 04 June 2023 - 09-55-15 AM</media:title>
+            <media:description>capture - 04 June 2023 - 09-55-15 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462104/21992344.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462104/playlist.m3u8" duration="4603.6904" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 28 May 2023 - 09-57-00 AM</title>
+            <pubDate>Sun, 28 May 2023 16:01:21 UT</pubDate>
+            <description>capture - 28 May 2023 - 09-57-00 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462114</guid>
+            <sh:mediaId>OurBhTsuGHg</sh:mediaId>
+            <sh:mediaContentId>OurBhTsuGHg_1</sh:mediaContentId>
+            <media:title>capture - 28 May 2023 - 09-57-00 AM</media:title>
+            <media:description>capture - 28 May 2023 - 09-57-00 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462114/21992394.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462114/playlist.m3u8" duration="3860.2454" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 21 May 2023 - 09-55-17 AM</title>
+            <pubDate>Sun, 21 May 2023 16:13:32 UT</pubDate>
+            <description>capture - 21 May 2023 - 09-55-17 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462150</guid>
+            <sh:mediaId>OurytTsuGoR</sh:mediaId>
+            <sh:mediaContentId>OurytTsuGoR_1</sh:mediaContentId>
+            <media:title>capture - 21 May 2023 - 09-55-17 AM</media:title>
+            <media:description>capture - 21 May 2023 - 09-55-17 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462150/21992654.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462150/playlist.m3u8" duration="4693.6533" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 14 May 2023 - 10-02-36 AM</title>
+            <pubDate>Sun, 14 May 2023 16:05:07 UT</pubDate>
+            <description>capture - 14 May 2023 - 10-02-36 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462164</guid>
+            <sh:mediaId>OurrflsuGoW</sh:mediaId>
+            <sh:mediaContentId>OurrflsuGoW_1</sh:mediaContentId>
+            <media:title>capture - 14 May 2023 - 10-02-36 AM</media:title>
+            <media:description>capture - 14 May 2023 - 10-02-36 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462164/21992682.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462164/playlist.m3u8" duration="3749.9734" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 07 May 2023 - 09-59-08 AM</title>
+            <pubDate>Sun, 07 May 2023 16:09:25 UT</pubDate>
+            <description>capture - 07 May 2023 - 09-59-08 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462134</guid>
+            <sh:mediaId>Our3IEsuGHS</sh:mediaId>
+            <sh:mediaContentId>Our3IEsuGHS_1</sh:mediaContentId>
+            <media:title>capture - 07 May 2023 - 09-59-08 AM</media:title>
+            <media:description>capture - 07 May 2023 - 09-59-08 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462134/21992502.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462134/playlist.m3u8" duration="4216.384" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 30 April 2023 - 09-55-41 AM</title>
+            <pubDate>Sun, 30 Apr 2023 16:13:16 UT</pubDate>
+            <description>capture - 30 April 2023 - 09-55-41 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462142</guid>
+            <sh:mediaId>OurQxksuGHB</sh:mediaId>
+            <sh:mediaContentId>OurQxksuGHB_1</sh:mediaContentId>
+            <media:title>capture - 30 April 2023 - 09-55-41 AM</media:title>
+            <media:description>capture - 30 April 2023 - 09-55-41 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462142/21992560.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462142/playlist.m3u8" duration="4654.08" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 23 April 2023 - 09-56-13 AM</title>
+            <pubDate>Sun, 23 Apr 2023 16:11:22 UT</pubDate>
+            <description>capture - 23 April 2023 - 09-56-13 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462170</guid>
+            <sh:mediaId>Ourr3EsuGoD</sh:mediaId>
+            <sh:mediaContentId>Ourr3EsuGoD_1</sh:mediaContentId>
+            <media:title>capture - 23 April 2023 - 09-56-13 AM</media:title>
+            <media:description>capture - 23 April 2023 - 09-56-13 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462170/21992770.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462170/playlist.m3u8" duration="4508.181" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 16 April 2023 - 09-55-19 AM</title>
+            <pubDate>Sun, 16 Apr 2023 16:20:50 UT</pubDate>
+            <description>capture - 16 April 2023 - 09-55-19 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462184</guid>
+            <sh:mediaId>OunRwzsuGow</sh:mediaId>
+            <sh:mediaContentId>OunRwzsuGow_1</sh:mediaContentId>
+            <media:title>capture - 16 April 2023 - 09-55-19 AM</media:title>
+            <media:description>capture - 16 April 2023 - 09-55-19 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462184/21992866.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462184/playlist.m3u8" duration="5130.7944" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 09 April 2023 - 10-11-53 AM</title>
+            <pubDate>Sun, 09 Apr 2023 16:09:02 UT</pubDate>
+            <description>capture - 09 April 2023 - 10-11-53 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462210</guid>
+            <sh:mediaId>OunmI9suGon</sh:mediaId>
+            <sh:mediaContentId>OunmI9suGon_1</sh:mediaContentId>
+            <media:title>capture - 09 April 2023 - 10-11-53 AM</media:title>
+            <media:description>capture - 09 April 2023 - 10-11-53 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462210/21993022.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462210/playlist.m3u8" duration="3428.5227" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 09 April 2023 - 09-57-50 AM</title>
+            <pubDate>Sun, 09 Apr 2023 15:10:48 UT</pubDate>
+            <description>capture - 09 April 2023 - 09-57-50 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462214</guid>
+            <sh:mediaId>Ounq2ksuGfm</sh:mediaId>
+            <sh:mediaContentId>Ounq2ksuGfm_1</sh:mediaContentId>
+            <media:title>capture - 09 April 2023 - 09-57-50 AM</media:title>
+            <media:description>capture - 09 April 2023 - 09-57-50 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462214/21993006.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462214/playlist.m3u8" duration="776.85333" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 02 April 2023 - 09-56-08 AM</title>
+            <pubDate>Sun, 02 Apr 2023 16:06:09 UT</pubDate>
+            <description>capture - 02 April 2023 - 09-56-08 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462196</guid>
+            <sh:mediaId>OuninksuGov</sh:mediaId>
+            <sh:mediaContentId>OuninksuGov_1</sh:mediaContentId>
+            <media:title>capture - 02 April 2023 - 09-56-08 AM</media:title>
+            <media:description>capture - 02 April 2023 - 09-56-08 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462196/21992928.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462196/playlist.m3u8" duration="4199.4453" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 26 March 2023 - 09-55-18 AM</title>
+            <pubDate>Sun, 26 Mar 2023 16:18:28 UT</pubDate>
+            <description>capture - 26 March 2023 - 09-55-18 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462204</guid>
+            <sh:mediaId>OunOyhsuGod</sh:mediaId>
+            <sh:mediaContentId>OunOyhsuGod_1</sh:mediaContentId>
+            <media:title>capture - 26 March 2023 - 09-55-18 AM</media:title>
+            <media:description>capture - 26 March 2023 - 09-55-18 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462204/21992960.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462204/playlist.m3u8" duration="4989.3545" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 19 March 2023 - 09-59-48 AM</title>
+            <pubDate>Sun, 19 Mar 2023 16:09:03 UT</pubDate>
+            <description>capture - 19 March 2023 - 09-59-48 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462252</guid>
+            <sh:mediaId>OunY98suGfJ</sh:mediaId>
+            <sh:mediaContentId>OunY98suGfJ_1</sh:mediaContentId>
+            <media:title>capture - 19 March 2023 - 09-59-48 AM</media:title>
+            <media:description>capture - 19 March 2023 - 09-59-48 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462252/21993282.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462252/playlist.m3u8" duration="4154.2827" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 12 March 2023 - 09-55-09 AM</title>
+            <pubDate>Sun, 12 Mar 2023 16:17:05 UT</pubDate>
+            <description>capture - 12 March 2023 - 09-55-09 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462260</guid>
+            <sh:mediaId>Oun0w6suGfN</sh:mediaId>
+            <sh:mediaContentId>Oun0w6suGfN_1</sh:mediaContentId>
+            <media:title>capture - 12 March 2023 - 09-55-09 AM</media:title>
+            <media:description>capture - 12 March 2023 - 09-55-09 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462260/21993394.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462260/playlist.m3u8" duration="4915.9253" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 05 March 2023 - 09-55-36 AM</title>
+            <pubDate>Sun, 05 Mar 2023 17:19:14 UT</pubDate>
+            <description>capture - 05 March 2023 - 09-55-36 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462274</guid>
+            <sh:mediaId>Ouno45suG4O</sh:mediaId>
+            <sh:mediaContentId>Ouno45suG4O_1</sh:mediaContentId>
+            <media:title>capture - 05 March 2023 - 09-55-36 AM</media:title>
+            <media:description>capture - 05 March 2023 - 09-55-36 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462274/21993454.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462274/playlist.m3u8" duration="5017.28" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 26 February 2023 - 09-58-17 AM</title>
+            <pubDate>Sun, 26 Feb 2023 17:16:13 UT</pubDate>
+            <description>capture - 26 February 2023 - 09-58-17 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462216</guid>
+            <sh:mediaId>OunqLysuGfc</sh:mediaId>
+            <sh:mediaContentId>OunqLysuGfc_1</sh:mediaContentId>
+            <media:title>capture - 26 February 2023 - 09-58-17 AM</media:title>
+            <media:description>capture - 26 February 2023 - 09-58-17 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462216/21993124.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462216/playlist.m3u8" duration="4675.0293" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 19 February 2023 - 09-55-42 AM</title>
+            <pubDate>Sun, 19 Feb 2023 17:18:44 UT</pubDate>
+            <description>capture - 19 February 2023 - 09-55-42 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462234</guid>
+            <sh:mediaId>OunAX8suGfl</sh:mediaId>
+            <sh:mediaContentId>OunAX8suGfl_1</sh:mediaContentId>
+            <media:title>capture - 19 February 2023 - 09-55-42 AM</media:title>
+            <media:description>capture - 19 February 2023 - 09-55-42 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462234/21993152.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462234/playlist.m3u8" duration="4981.76" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 12 February 2023 - 09-49-40 AM</title>
+            <pubDate>Sun, 12 Feb 2023 17:14:03 UT</pubDate>
+            <description>capture - 12 February 2023 - 09-49-40 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462236</guid>
+            <sh:mediaId>OunA6UsuGfg</sh:mediaId>
+            <sh:mediaContentId>OunA6UsuGfg_1</sh:mediaContentId>
+            <media:title>capture - 12 February 2023 - 09-49-40 AM</media:title>
+            <media:description>capture - 12 February 2023 - 09-49-40 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462236/21993214.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462236/playlist.m3u8" duration="5061.909" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 05 February 2023 - 09-57-29 AM</title>
+            <pubDate>Sun, 05 Feb 2023 17:12:34 UT</pubDate>
+            <description>capture - 05 February 2023 - 09-57-29 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462248</guid>
+            <sh:mediaId>OunY0msuGf9</sh:mediaId>
+            <sh:mediaContentId>OunY0msuGf9_1</sh:mediaContentId>
+            <media:title>capture - 05 February 2023 - 09-57-29 AM</media:title>
+            <media:description>capture - 05 February 2023 - 09-57-29 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462248/21993256.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462248/playlist.m3u8" duration="4504.469" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 29 January 2023 - 09-56-23 AM</title>
+            <pubDate>Sun, 29 Jan 2023 17:15:55 UT</pubDate>
+            <description>capture - 29 January 2023 - 09-56-23 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462308</guid>
+            <sh:mediaId>OunjjUsuG4x</sh:mediaId>
+            <sh:mediaContentId>OunjjUsuG4x_1</sh:mediaContentId>
+            <media:title>capture - 29 January 2023 - 09-56-23 AM</media:title>
+            <media:description>capture - 29 January 2023 - 09-56-23 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462308/21993702.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462308/playlist.m3u8" duration="4771.6265" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 22 January 2023 - 09-55-16 AM</title>
+            <pubDate>Sun, 22 Jan 2023 17:25:24 UT</pubDate>
+            <description>capture - 22 January 2023 - 09-55-16 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462282</guid>
+            <sh:mediaId>OunfHKsuG4H</sh:mediaId>
+            <sh:mediaContentId>OunfHKsuG4H_1</sh:mediaContentId>
+            <media:title>capture - 22 January 2023 - 09-55-16 AM</media:title>
+            <media:description>capture - 22 January 2023 - 09-55-16 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462282/21993500.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462282/playlist.m3u8" duration="5407.573" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 15 January 2023 - 09-59-52 AM</title>
+            <pubDate>Sun, 15 Jan 2023 17:14:59 UT</pubDate>
+            <description>capture - 15 January 2023 - 09-59-52 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462288</guid>
+            <sh:mediaId>OunfB8suG4T</sh:mediaId>
+            <sh:mediaContentId>OunfB8suG4T_1</sh:mediaContentId>
+            <media:title>capture - 15 January 2023 - 09-59-52 AM</media:title>
+            <media:description>capture - 15 January 2023 - 09-59-52 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462288/21993544.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462288/playlist.m3u8" duration="4506.112" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 08 January 2023 - 09-55-31 AM</title>
+            <pubDate>Sun, 08 Jan 2023 17:09:36 UT</pubDate>
+            <description>capture - 08 January 2023 - 09-55-31 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462294</guid>
+            <sh:mediaId>Oun4xhsuG47</sh:mediaId>
+            <sh:mediaContentId>Oun4xhsuG47_1</sh:mediaContentId>
+            <media:title>capture - 08 January 2023 - 09-55-31 AM</media:title>
+            <media:description>capture - 08 January 2023 - 09-55-31 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462294/21993608.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462294/playlist.m3u8" duration="4444.928" lang="en" medium="video">
+</media:content>
+        </item>
+        <item>
+            <title>capture - 01 January 2023 - 09-55-56 AM</title>
+            <pubDate>Sun, 01 Jan 2023 17:04:20 UT</pubDate>
+            <description>capture - 01 January 2023 - 09-55-56 AM</description>
+            <guid>http://c.themediacdn.com/feed/Wys39U/i1DDI6Us2Bb/ObRDIRlsiaI?format=mrss/4462306</guid>
+            <sh:mediaId>OunjR8suG4w</sh:mediaId>
+            <sh:mediaContentId>OunjR8suG4w_1</sh:mediaContentId>
+            <media:title>capture - 01 January 2023 - 09-55-56 AM</media:title>
+            <media:description>capture - 01 January 2023 - 09-55-56 AM</media:description>
+            <media:category>Sunday Morning</media:category>
+            <media:thumbnail
+            url="https://2-web-shpcd1.streamhoster.com/274c/206936/mfrs/4462306/21993640.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vMi13ZWItc2hwY2QxLnN0cmVhbWhvc3Rlci5jb20vMjc0Yy8yMDY5MzYvbWZycyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDk1NjM5NjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&amp;Signature=l0hd8N7C1BwwZYubj84pX25qRLxtaJo4GdicOAJ7lDcbWlo-PEJ7vOqYXo4MMj0jgtyjU69KxtfD3yYB1LNwhF0vfxfCMF~Gn-H16zW5JmDk2rJVtbSe9oFcjm15uklpqVXn9vF562zfrIjzzIlfHUQKCZ~xRvWmvgk7zKTbZUqWFIBZsMT3lOqkYvC6Nq8YrpqSfjI3UqVn3jEYFwM-GQCgudbNVYmRaJtON3Iu6jyNhviVVg2Gf5z65eOL-zI8SGAWHuITx2PetVWHw93wPT2AGDmFG8m93uqshrIKTfqTOBQI0ml8pF-f8bTMKhzsFD5fWigFu2mjd~n~on-I9Q__&amp;Key-Pair-Id=APKAIQCJLWNYFADX6TFA">
+</media:thumbnail>
+            <media:content
+            url="https://2-fss-1.streamhoster.com/pv_104/_definst_/amlst:shpcd1/274c/206936/mf/4462306/playlist.m3u8" duration="4104.0" lang="en" medium="video">
+</media:content>
+        </item>
     </channel>
 </rss>
-

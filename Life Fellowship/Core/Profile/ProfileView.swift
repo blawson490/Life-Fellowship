@@ -38,7 +38,7 @@ struct ProfileView: View {
                                 .background(Color.white, in: Circle())
                                 .shadow(radius: 8)
                         )
-                        .padding(.top, -125)
+                        .padding(.top, -150)
                     
                     Text(currentUser?.fullname ?? "")
                         .font(.title)

@@ -43,7 +43,7 @@ struct LoginView: View {
                         .fontWeight(.semibold)
                         .padding(.vertical)
                         .padding(.trailing, 20)
-                        .foregroundStyle(Color.accentColor)
+                        .foregroundStyle(Color(uiColor: .label))
                         .frame(maxWidth: /*@START_MENU_TOKEN@*/.infinity/*@END_MENU_TOKEN@*/, alignment: .trailing)
                 }
                 
@@ -74,6 +74,7 @@ struct LoginView: View {
                         .navigationBarBackButtonHidden()
                 } label: {
                     Text("Continue as Guest")
+                        .foregroundStyle(Color(uiColor: .label))
                         .font(.callout)
                         .fontWeight(.semibold)
                         .padding(.vertical)
@@ -86,8 +87,8 @@ struct LoginView: View {
                     RegistrationView()
                 } label: {
                     HStack (spacing: 3){
-                        Text("Already have an account?")
-                        Text("Sign in")
+                        Text("Don't have an account?")
+                        Text("Sign up")
                             .fontWeight(.semibold)
                     }
                     .foregroundColor(.primary)

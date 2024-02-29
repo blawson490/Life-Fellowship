@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-struct DummyAnnouncement {
+struct DummyAnnouncement: Identifiable, Hashable, Encodable {
     var id: Int
     var title: String
     var description: String

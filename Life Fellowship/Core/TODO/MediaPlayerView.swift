@@ -125,13 +125,13 @@ struct MediaPlayerView: View {
                         Image(systemName: "chevron.left")
                     }
                 }
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    Button {
-                        showAlert = true
-                    } label: {
-                        Image(systemName: "bookmark")
-                    }
-                }
+//                ToolbarItem(placement: .navigationBarTrailing) {
+//                    Button {
+//                        showAlert = true
+//                    } label: {
+//                        Image(systemName: "bookmark")
+//                    }
+//                }
             }
             .navigationTitle("Listen")
             .navigationBarTitleDisplayMode(.inline)
@@ -151,6 +151,7 @@ struct MediaPlayerView: View {
         let currentURL = (player?.currentItem?.asset as? AVURLAsset)?.url
 
         if player == nil || currentURL != videoURL {
+            self.configureAudioSession()
             self.player = AVPlayer(url: videoURL)
             let durationTime = player?.currentItem?.duration
             let durationSeconds = CMTimeGetSeconds(durationTime ?? CMTime())
@@ -385,10 +386,17 @@ struct MediaPlayerView: View {
             }
         }
     }
+
+    func configureAudioSession() {
+        do {
+            try AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
+            try AVAudioSession.sharedInstance().setActive(true)
+        } catch {
+            print("Failed to set audio session category. \(error)")
+        }
+    }
+
 }
-
-// Remember to import AVFoundation where you declare your view.
-
 
 #Preview {
     MediaPlayerView(animation: Namespace().wrappedValue).preferredColorScheme(.dark)
