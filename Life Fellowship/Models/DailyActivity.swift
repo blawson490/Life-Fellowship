@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+struct DailyActivity {
+    var name: String
+    var image: String
+    var title: String
+    var description: String
+}
