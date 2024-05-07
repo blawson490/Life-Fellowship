@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Life_FellowshipApp: App {
+    @StateObject private var viewModel = AuthViewModel()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(viewModel)
         }
     }
 }

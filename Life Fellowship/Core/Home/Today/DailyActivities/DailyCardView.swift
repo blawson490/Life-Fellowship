@@ -13,6 +13,7 @@ struct DailyCardView: View {
     var systemImage = "heart"
     var title = "Practice Gratitude"
     var description = "What are you grateful for?"
+    var action = "being kind."
     var body: some View {
         VStack {
             HStack (alignment: .top) {
@@ -23,7 +24,7 @@ struct DailyCardView: View {
                     .padding(.top, 30)
                     .padding(.trailing, 10)
                     
-                VStack (spacing: 0) {
+                VStack (alignment: .leading, spacing: 0) {
                     HStack {
                         Image(systemName: systemImage)
                             .padding(12)
@@ -48,15 +49,17 @@ struct DailyCardView: View {
                             .bold()
                             .foregroundStyle(.primary)
                         HStack {
-                            Spacer()
+                            ProfileStack(names: ["Blake Lawson", "Trinity Lawson", "Luna Lawson", "Isaiah Martin", "Adilynn Lawson"], action: action)
                         }
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.top, 20)
                     }
-                    .padding()
+                    .padding(.vertical)
                 }
                 .padding([.top, .horizontal])
                 .background {
                     RoundedRectangle(cornerRadius: 15)
-                        .fill(Color(uiColor: .tertiarySystemGroupedBackground))
+                        .fill(Color("CardBackground"))
                 }
             }
         }

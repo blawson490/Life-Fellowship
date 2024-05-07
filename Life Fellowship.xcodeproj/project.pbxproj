@@ -20,6 +20,15 @@
 		64C047BB2BE661E500C69390 /* CommunityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C047BA2BE661E500C69390 /* CommunityView.swift */; };
 		64C047BD2BE6621D00C69390 /* DailyCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C047BC2BE6621D00C69390 /* DailyCardView.swift */; };
 		64C047BF2BE662AD00C69390 /* DailyActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C047BE2BE662AD00C69390 /* DailyActivity.swift */; };
+		64C100E82BE7F1CA007A3047 /* DefaultProfilePicture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C100E72BE7F1CA007A3047 /* DefaultProfilePicture.swift */; };
+		64C100EA2BE7F364007A3047 /* ProfileStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C100E92BE7F364007A3047 /* ProfileStack.swift */; };
+		64C100EC2BE7FA00007A3047 /* PrayerQuote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C100EB2BE7FA00007A3047 /* PrayerQuote.swift */; };
+		64C100EE2BE87DE5007A3047 /* DevotionalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C100ED2BE87DE5007A3047 /* DevotionalView.swift */; };
+		64C100F02BE87F2D007A3047 /* Devotional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C100EF2BE87F2D007A3047 /* Devotional.swift */; };
+		64E57FDF2BE92ADF008DB328 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E57FDE2BE92ADF008DB328 /* LoginView.swift */; };
+		64E57FE12BE958B2008DB328 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E57FE02BE958B2008DB328 /* RegisterView.swift */; };
+		64E57FE32BE97B70008DB328 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E57FE22BE97B70008DB328 /* AuthenticationService.swift */; };
+		64E57FE52BE98288008DB328 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E57FE42BE98288008DB328 /* AuthViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +46,15 @@
 		64C047BA2BE661E500C69390 /* CommunityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityView.swift; sourceTree = "<group>"; };
 		64C047BC2BE6621D00C69390 /* DailyCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyCardView.swift; sourceTree = "<group>"; };
 		64C047BE2BE662AD00C69390 /* DailyActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyActivity.swift; sourceTree = "<group>"; };
+		64C100E72BE7F1CA007A3047 /* DefaultProfilePicture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultProfilePicture.swift; sourceTree = "<group>"; };
+		64C100E92BE7F364007A3047 /* ProfileStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileStack.swift; sourceTree = "<group>"; };
+		64C100EB2BE7FA00007A3047 /* PrayerQuote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerQuote.swift; sourceTree = "<group>"; };
+		64C100ED2BE87DE5007A3047 /* DevotionalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevotionalView.swift; sourceTree = "<group>"; };
+		64C100EF2BE87F2D007A3047 /* Devotional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Devotional.swift; sourceTree = "<group>"; };
+		64E57FDE2BE92ADF008DB328 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		64E57FE02BE958B2008DB328 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		64E57FE22BE97B70008DB328 /* AuthenticationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationService.swift; sourceTree = "<group>"; };
+		64E57FE42BE98288008DB328 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +87,7 @@
 		64C0479E2BE65F2300C69390 /* Life Fellowship */ = {
 			isa = PBXGroup;
 			children = (
+				64C100E12BE6B8A1007A3047 /* Services */,
 				64C047C12BE665AF00C69390 /* Core */,
 				64C047C02BE6649200C69390 /* Utilities */,
 				64C047B12BE6618E00C69390 /* Models */,
@@ -94,6 +113,7 @@
 			children = (
 				64C047B42BE6619900C69390 /* TabModel.swift */,
 				64C047BE2BE662AD00C69390 /* DailyActivity.swift */,
+				64C100EF2BE87F2D007A3047 /* Devotional.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -103,6 +123,7 @@
 			children = (
 				64C047B32BE6619900C69390 /* Interpolation.swift */,
 				64C047B22BE6619900C69390 /* RectKey.swift */,
+				64C100E72BE7F1CA007A3047 /* DefaultProfilePicture.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -110,6 +131,7 @@
 		64C047C12BE665AF00C69390 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				64E57FDD2BE92AD0008DB328 /* Authentication */,
 				64C047C92BE6676100C69390 /* More */,
 				64C047C82BE6675C00C69390 /* Events */,
 				64C047C72BE6675600C69390 /* This Week */,
@@ -150,6 +172,9 @@
 			isa = PBXGroup;
 			children = (
 				64C047BC2BE6621D00C69390 /* DailyCardView.swift */,
+				64C100E92BE7F364007A3047 /* ProfileStack.swift */,
+				64C100EB2BE7FA00007A3047 /* PrayerQuote.swift */,
+				64C100ED2BE87DE5007A3047 /* DevotionalView.swift */,
 			);
 			path = DailyActivities;
 			sourceTree = "<group>";
@@ -180,6 +205,24 @@
 			children = (
 			);
 			path = More;
+			sourceTree = "<group>";
+		};
+		64C100E12BE6B8A1007A3047 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				64E57FE22BE97B70008DB328 /* AuthenticationService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		64E57FDD2BE92AD0008DB328 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				64E57FDE2BE92ADF008DB328 /* LoginView.swift */,
+				64E57FE02BE958B2008DB328 /* RegisterView.swift */,
+				64E57FE42BE98288008DB328 /* AuthViewModel.swift */,
+			);
+			path = Authentication;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -253,15 +296,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				64C047A22BE65F2300C69390 /* ContentView.swift in Sources */,
+				64E57FE12BE958B2008DB328 /* RegisterView.swift in Sources */,
 				64C047A02BE65F2300C69390 /* Life_FellowshipApp.swift in Sources */,
 				64C047B62BE6619900C69390 /* Interpolation.swift in Sources */,
 				64C047B02BE6617900C69390 /* Home.swift in Sources */,
+				64E57FE32BE97B70008DB328 /* AuthenticationService.swift in Sources */,
 				64C047B52BE6619900C69390 /* RectKey.swift in Sources */,
 				64C047BB2BE661E500C69390 /* CommunityView.swift in Sources */,
+				64C100EE2BE87DE5007A3047 /* DevotionalView.swift in Sources */,
+				64C100E82BE7F1CA007A3047 /* DefaultProfilePicture.swift in Sources */,
 				64C047B72BE6619900C69390 /* TabModel.swift in Sources */,
+				64C100EC2BE7FA00007A3047 /* PrayerQuote.swift in Sources */,
 				64C047B92BE661CF00C69390 /* TodayView.swift in Sources */,
 				64C047BD2BE6621D00C69390 /* DailyCardView.swift in Sources */,
+				64C100F02BE87F2D007A3047 /* Devotional.swift in Sources */,
 				64C047BF2BE662AD00C69390 /* DailyActivity.swift in Sources */,
+				64E57FE52BE98288008DB328 /* AuthViewModel.swift in Sources */,
+				64E57FDF2BE92ADF008DB328 /* LoginView.swift in Sources */,
+				64C100EA2BE7F364007A3047 /* ProfileStack.swift in Sources */,
 				64C047AE2BE6615900C69390 /* RootView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

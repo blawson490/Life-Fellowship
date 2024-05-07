@@ -11,11 +11,14 @@ struct TodayView: View {
     @State private var completedActivities: Set<ActivityState> = []
     
     let activities: [ActivityState: DailyActivity] = [
-        .grateful: DailyActivity(name: "grateful", image: "heart.text.square", title: "Practice Gratitude", description: "What are you grateful for?"),
-        .prayer: DailyActivity(name: "prayer", image: "hands.sparkles", title: "Pray for Others", description: "Pray with your community."),
-        .kindness: DailyActivity(name: "kindness", image: "hand.raised.fill", title: "Acts of Kindness", description: "Make a positive impact today.")
+        .grateful: DailyActivity(name: "grateful", image: "heart.text.square", title: "Practice Gratitude", description: "What are you grateful for?", action: "grateful."),
+        .prayer: DailyActivity(name: "prayer", image: "hands.sparkles", title: "Pray for Others", description: "Pray with your community.", action: "praying."),
+        .devotional: DailyActivity(name: "devotion", image: "book.pages", title: "Daily Devotional", description: "Get you daily dose of devotion.", action: "reading.")
     ]
 
+    @State private var showPrayer = false
+    @State private var showDevotion = false
+    
     var body: some View {
         ScrollView(.vertical, showsIndicators: false) {
             VStack(alignment: .leading, spacing: 30) {
@@ -31,6 +34,11 @@ struct TodayView: View {
         .refreshable {
             completedActivities.removeAll()
         }
+        .fullScreenCover(isPresented: $showPrayer) { PrayerQuote()
+        }
+        .fullScreenCover(isPresented: $showDevotion) {
+            DevotionalView()
+        }
     }
     
     var headerView: some View {
@@ -44,13 +52,20 @@ struct TodayView: View {
     func activityCard(for state: ActivityState) -> some View {
         if let activity = activities[state] {
             DailyCardView(isCompleted: bindingForActivity(state),
-                          isLast: state == .kindness,
+                          isLast: state == .devotional,
                           systemImage: activity.image,
                           title: activity.title,
-                          description: activity.description)
+                          description: activity.description,
+                          action: activity.action)
             .onTapGesture {
+                if state == .devotional {
+                    showDevotion = true
+                } else {
+                    showPrayer = true
+                }
                 withAnimation(.interpolatingSpring(stiffness: 100, damping: 10)) {
                     _ = completedActivities.insert(state)
+                    print(state)
                 }
             }
         }
@@ -71,7 +86,7 @@ struct TodayView: View {
 }
 
 enum ActivityState: CaseIterable {
-    case grateful, prayer, kindness
+    case grateful, prayer, devotional
 }
 
 #Preview {

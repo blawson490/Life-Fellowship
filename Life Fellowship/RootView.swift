@@ -17,6 +17,7 @@ enum Tab {
 }
 
 struct RootView: View {
+    @EnvironmentObject var viewModel: AuthViewModel
     @State private var selection: Tab = .home
     var body: some View {
         TabView(selection: $selection) {
@@ -58,10 +59,12 @@ struct RootView: View {
                 }
                 .tag(Tab.more)
         }
+        .background(Color("AppBackground"))
     }
 }
 
 
 #Preview {
     RootView()
+        .environmentObject(AuthViewModel())
 }

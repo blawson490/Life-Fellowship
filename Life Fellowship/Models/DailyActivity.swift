@@ -12,4 +12,5 @@ struct DailyActivity {
     var image: String
     var title: String
     var description: String
+    var action: String
 }

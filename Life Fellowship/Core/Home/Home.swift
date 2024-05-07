@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct Home: View {
+    @EnvironmentObject var viewModel: AuthViewModel
     @State private var tabs: [TabModel] = [
         .init(id: TabModel.Tab.today),
         .init(id: TabModel.Tab.community),
@@ -21,31 +22,41 @@ struct Home: View {
     @State private var showingStreak = false
     @State private var showingNotifications = false
     @State private var showingProfile = false
+    
+    @Environment(\.dismiss) var dismiss
     var body: some View {
         VStack {
             HStack (spacing: 16){
                 CustomTabBar()
                 Spacer()
-                Button(action: {
-                    showingStreak = true
-                }, label: {
-                    Image(systemName: "flame")
-                })
-                Button(action: {
-                    showingNotifications = true
-                }, label: {
-                    Image(systemName: "bell")
-                })
-                Button(action: {
-                    showingProfile = true
-                }, label: {
-                    Text("BL")
-                        .padding(8)
-                        .background {
-                            Circle()
-                                .fill(Color(uiColor: .systemGroupedBackground))
-                        }
-                })
+                if let currentUser = viewModel.currentUser {
+                    Button(action: {
+                        showingStreak = true
+                    }, label: {
+                        Image(systemName: "flame")
+                    })
+                    Button(action: {
+                        showingNotifications = true
+                    }, label: {
+                        Image(systemName: "bell")
+                    })
+                    Button(action: {
+                        showingProfile = true
+                    }, label: {
+                        Text("\(initials(from: currentUser.name))")
+                            .padding(8)
+                            .background {
+                                Circle()
+                                    .fill(Color(uiColor: .systemGroupedBackground))
+                            }
+                    })
+                } else {
+                    Button(action: {
+                        dismiss()
+                    }, label: {
+                        Text("Login")
+                    })
+                }
             }
             .foregroundStyle(.primary)
             .padding([.top, .horizontal], 15)
@@ -102,8 +113,26 @@ struct Home: View {
             Text("Notifications")
         })
         .sheet(isPresented: $showingProfile, content: {
-            Text("Profile")
+            VStack {
+                Text("Profile")
+                Button(role: .destructive, action: {
+                    viewModel.logout()
+                }, label: {
+                    HStack {
+                        Spacer()
+                        Text("Sign Out")
+                            .foregroundStyle(.white)
+                            .bold()
+                        Spacer()
+                    }
+                    .padding()
+                    .background(RoundedRectangle(cornerRadius: 16).fill(.red))
+                    .padding()
+                })
+            }
+            .environmentObject(AuthViewModel())
         })
+        .background(Color("AppBackground"))
     }
     
     @ViewBuilder
@@ -147,9 +176,24 @@ struct Home: View {
                 .padding(.horizontal, -15)
         }
     }
+    
+    private func initials(from name: String) -> String {
+        let parts = name.split(separator: " ").map(String.init)
+        switch parts.count {
+        case 0:
+            return ""
+        case 1:
+            return String(parts[0].prefix(2)).uppercased()
+        case 2:
+            return "\(parts[0].first!)\(parts[1].first!)".uppercased()
+        default:
+            return "\(parts.first!.first!)\(parts.last!.first!)".uppercased()
+        }
+    }
 }
 
 #Preview {
     Home()
+        .environmentObject(AuthViewModel())
 }
 
