@@ -57,7 +57,7 @@ struct LoginView: View {
                         HStack {
                             Spacer()
                             Button(action: {
-                                
+                                print("DEBUG: Forgot Password")
                             }, label: {
                                 Text("Forgot Password?")
                                     .foregroundStyle(.white)

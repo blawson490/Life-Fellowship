@@ -172,12 +172,14 @@ struct DevotionalView: View {
                                         }, label: {
                                             Label("Love", systemImage: "heart")
                                         })
-                                        Button(role: .destructive, action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {
+                                        Button(role: .destructive, action: {
+                                            print("DEBUG: Report Devotional")
+                                        }, label: {
                                             Label("Report", systemImage: "flag")
                                         })
                                         if currentUser.role == "admin" || currentUser.role == "global" {
                                             Button(role: .destructive, action: {
-                                                print("DEBUG: Report Devotional")
+                                                print("DEBUG: Hide Devotional")
                                             }, label: {
                                                 Label("Hide Devotional", systemImage: "eye.slash.fill")
                                             })
